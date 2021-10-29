@@ -1,18 +1,23 @@
-# An Analysis of Kickstarter Campaigns.
-Performing analysis on Kickstarter data to uncover trends
----
-## Introduction
-This project is designed to discover and analyze trends of various Kickstarter campaigns across multiple fields and disciplines.  The intent is to collect data relevant to:
-* the theater market in the United States, specifically plays
-* the theater market in Great Britain, specifically musicals
----
-## Findings and Visualizations
-### Campaigns for theater plays in the United States
-placeholder...
-### Campaigns for theater musicals in Great Britain
-placeholder...
+# Kickstarting with Excel
 
----
-## Recommendations
-* placeholder text, budget of $10000 minimum was initial choice for plays in the United States
-* Louise should consider launching a campaign for musicals in Great Britain in the future with attempted production costs closer to 2000, as her original budget of 4000 is higher than what is reasonably expected for a pledge.
+## Overview of Project
+
+### Purpose
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
