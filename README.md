@@ -11,6 +11,7 @@ This project is designed to discover and analyze trends of various Kickstarter c
 placeholder...
 ### Campaigns for theater musicals in Great Britain
 placeholder...
+
 ---
 ## Recommendations
 * placeholder text, budget of $10000 minimum was initial choice for plays in the United States
