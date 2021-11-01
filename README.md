@@ -52,7 +52,7 @@ What are some limitations of this dataset?
 
 1) There is some missing information.  In the "Outcomes Based on Launch Date" line graph you can see that the line for canceled campaigns breaks for the month of October, and that is also confirmed by looking at the table corresponding to this chart.  We would need to collect that data for completion.
 
-2) There are some outliers.  In the "Outcomes Based on Goals" line graph there is a spike in successful campaigns at the "35000 - 39999" range, but if that spike didn't exist we'd most likely see a steady decline as the ranges increase.  
+2) There are some outliers.  In the "Outcomes Based on Goals" line graph there is a spike in successful campaigns at the "35000 - 39999" range which continues through to the "40000 - 44999" range. When looking at the table associated with this chart for both of the aforementioned ranges, it can be seen that the total number of campaigns for each range is small but the number of successful campaigns is twice the number of failed campaigns.  If this spike didn't exist we'd most likely see a steady decline in successful campaigns as the ranges increase.  
 
 What are some other possible tables and/or graphs that we could create?
 
