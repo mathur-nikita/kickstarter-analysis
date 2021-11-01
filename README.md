@@ -8,7 +8,8 @@ Louise wants to start a crowdfunding campaign to fund a play and would like to d
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-insert chart here
+
+![Theater_Outcomes_vs_Launch.png](https://github.com/mathur-nikita/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 The lines for successful campaigns and failed campaigns for the most part seem to increase and decrease in slope at the same time per month, but not necessarily by the same amount.  There is an increase from January to April, with a noticeable increase for the month of May.  After that there is a decline in both the number of successful and failed campaigns until the month of October which shows a small increase.  
 
@@ -17,7 +18,9 @@ After this there's a slight deviation: for successful campaigns there's steady d
 The number of canceled campaigns remains mostly steady throughout the year (less than 10) except for a break in the month of October.
 
 ### Analysis of Outcomes Based on Goals
-insert chart here
+
+![Outcomes_vs_Goals](https://github.com/mathur-nikita/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+
 
 For percentages of successful campaigns: As the ranges of the goals increase, the percentage of successfully funded campaigns tend to decrease. This is represented by the slope of the line being mostly negative (save for two points). 
 
@@ -37,7 +40,7 @@ What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 1) The highest amount of successful campaigns occurs for campaigns that are launched in the month of May, so it would seem if Louise were to also launch her campaign in May she would most likely run a successful crowdfunding campaign.  The highest amount of failed campaigns also occurs in May, but it's a much smaller amount total.
 
-2) 
+2) In December the amount of successful campaigns and failed campaigns are almost the same, so it would seem if Louise were to also launch her campaign in December she'd have a 50-50 chance at running a successful crowdfunding campaign.
 
 What can you conclude about the Outcomes based on Goals?
 
@@ -48,7 +51,8 @@ What can you conclude about the Outcomes based on Goals?
 What are some limitations of this dataset?
 
 1) There is some missing information.  In the "Outcomes Based on Launch Date" line graph you can see that the line for canceled campaigns breaks for the month of October, and that is also confirmed by looking at the table corresponding to this chart.  We would need to collect that data for completion.
-2) There are some outliers.  In the "Outcomes Based on Goals" line graph there are two spikes for successful campaigns (one at the "35000 - 39999" range and one at the "greater than 50000" mark), but if those spikes didn't exist we'd most likely see a steady decline as the ranges increase.  
+
+2) There are some outliers.  In the "Outcomes Based on Goals" line graph there is a spike in successful campaigns at the "35000 - 39999" range, but if that spike didn't exist we'd most likely see a steady decline as the ranges increase.  
 
 What are some other possible tables and/or graphs that we could create?
 
